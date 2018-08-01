@@ -1,0 +1,21 @@
+{
+  "name": "lib",
+  "authors": [
+    "tomarts05 <ramosartum05@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/tomarts05/Tom",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.1.3"
+  }
+}
